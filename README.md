@@ -38,7 +38,7 @@ Prerequisites / Pré-requisitos: npm / yarn
 git clone https://github.com/KlevertonOliveira/ProfileCard_App---ReactJS
 
 # Enter the project folder / Entrar na pasta do projeto
-cd profileCard-app
+cd ProfileCard_App---ReactJS
 
 # Install dependencies / Instalar dependências
 yarn install
