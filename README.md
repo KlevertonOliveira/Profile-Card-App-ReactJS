@@ -4,7 +4,7 @@
 ---
 
 ## :art: Layout web
-![Alt Text](assets/shopApp.gif)
+![Alt Text](assets/profile-app.gif)
 
 
 
